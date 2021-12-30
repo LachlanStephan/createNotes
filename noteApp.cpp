@@ -7,7 +7,6 @@
 func f;
 config c;
 
-
 // Path for files to be stored
 std::string dirPath = c.dirPath;
 
