@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Automate my note taking process
+Automate creating notes
 
 ## Use
 
