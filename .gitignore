@@ -1,0 +1,4 @@
+# config class file - stores dir path
+/config.h
+# Executable file 
+/createNote
