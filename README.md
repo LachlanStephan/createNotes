@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Automate creating text files for notes
+Automate creating text files
 
 ## Use
 
