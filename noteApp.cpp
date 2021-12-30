@@ -21,7 +21,7 @@ int func::openPage(const std::string &pageTitle)
 	std::string pageOpen = "";
 	pageOpen = "vi "+pageTitle+".txt";
 	std::cout << pageOpen << std::endl;
-    chdir(dirPath.c_str());
+    	chdir(dirPath.c_str());
 	system(pageOpen.c_str());
 	return 0;
 }
